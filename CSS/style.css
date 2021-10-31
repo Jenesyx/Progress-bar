@@ -75,3 +75,30 @@ section p {
     margin-bottom: 50px;
     margin-top: 30px;
 }
+
+* Footer */
+
+#footer {
+    margin-top: 350px;
+    background: #3C495E;
+    height: 60px;
+    text-align: center;
+    color: #fff;
+    padding: 1px;
+}
+
+#footer .footer-info {
+    margin-top: 20px;
+}
+
+#footer .footer-info p {
+    font-size: 18px;
+}
+
+#footer .fa-heart {
+    color: #D52A2A;
+}
+
+#footer .fa-coffee {
+    color: #f9ab25;
+}
